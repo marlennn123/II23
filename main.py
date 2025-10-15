@@ -1,9 +1,4 @@
-from os import fdopen
-
-fdgdg
-fdopen(gdfogjfdgdfg
-       fdghfdkjgfd
-gdfgjkfdgdfgdfjkgdf
-gfdghdfisg
-dfsgsfdgjdsg
-dsfgjlksfdgfdsg)
+34538573485345
+43574385345
+4354375843543
+53457493543
